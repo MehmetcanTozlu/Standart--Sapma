@@ -1,0 +1,11 @@
+||:Proje
+java.io.PrintStream
+java.lang.invoke.MethodHandles$Lookup
+Proje
+java.lang.System
+java.lang.invoke.MethodHandles
+java.util.Scanner
+java.lang.Object
+java.lang.invoke.StringConcatFactory
+[Ljava.lang.String;
+[I
